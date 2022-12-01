@@ -13,7 +13,7 @@ The following steps are performed by these sample scripts:
 3. Retrieve Job ID and URL
 4. Check Job status
 
-For additional details, please refer to the [BCDA documentation](https://bcda.cms.gov/guide.html)
+For additional details, please refer to the [BCDA documentation](https://bcda.cms.gov/guide.html).
 
 ### Assumptions
 
