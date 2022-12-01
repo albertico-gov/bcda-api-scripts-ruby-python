@@ -1,8 +1,8 @@
-# BCDA API Examples: Ruby and Python
+# BCDA API Sample Scripts: Ruby and Python
 
 ## Description
 
-The following scripts provide basic examples in Ruby and Python to interact with the [Beneficiary Claims Data API](https://bcda.cms.gov/) (BCDA) Version 2.
+This repository contains sample scripts using Ruby and Python to interact with the [Beneficiary Claims Data API](https://bcda.cms.gov/) (BCDA) Version 2.
 
 These scripts are for demonstration purposes and are NOT intended to be used in production. Organizations most implement robust security practices to protect their secrets and tokens. Error handling, token validation/refresh and logging must also be implemented when integrating with a production environment.
 
